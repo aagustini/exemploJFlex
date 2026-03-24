@@ -20,9 +20,11 @@ Para acompanhar as atividades deste repositório, recomenda-se o uso do **codesp
 
 O repositório está organizado por fases do processo de compilação:
 
-| Pasta | Descrição | Conteúdo |
-| --- | --- | --- |
+| Pasta | Descrição | 
+| --- | --- | 
 | `/01-analise-lexica` | Exemplo de uso da ferramenta jflex. |
+| `/02-exemploASDR` | Código exemplo do ASDR discutido em aula. |
+| `/03-exercJSON` | Exercício - escrever um ASDR para a linguagem JSON. |
 
 
 ---
